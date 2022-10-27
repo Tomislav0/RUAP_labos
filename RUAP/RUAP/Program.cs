@@ -6,7 +6,7 @@ namespace RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( "Pozdrav iz aplikacije od Tomislava Kovacevica");
+            Console.WriteLine( "Pozdrav iz aplikacije od Tomislava Kovacevica [broj indexa]");
         }
     }
 }
