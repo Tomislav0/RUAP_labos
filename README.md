@@ -1,2 +1,2 @@
 # RUAP_labos
-repository for faculty college.
+Moj repozitorij za kolegij RUAP
