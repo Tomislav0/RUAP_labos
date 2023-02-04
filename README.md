@@ -1,2 +1,2 @@
-# RUAP_labos
-Moj repozitorij za kolegij RUAP
+# RUAP_labs
+Service computing and data analysis
